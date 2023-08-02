@@ -1,7 +1,7 @@
 # Analyzing Chicago Hardship
 # Selected Socioeconomic Indicators Analysis for Chicago Communities
 
-![Chicago Communities](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chicago_montage1.jpg/640px-Chicago_montage1.jpg)
+![Chicago Communities](Chicago_website_hardship.jpg)
 
 ## Introduction
 
@@ -51,4 +51,4 @@ The analysis consists of the following steps:
 
 By analyzing the selected socioeconomic indicators for Chicago communities, this project aims to gain insights into the hardship levels faced by different areas. The visualizations and data exploration can provide valuable information for policymakers and researchers working towards improving the living conditions in these communities.
 
-![Chicago Skyline](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Chicago_sunrise_1.jpg/640px-Chicago_sunrise_1.jpg)
+![City of Chicago Visualization](bar_chart_hardship_index.jpg)
