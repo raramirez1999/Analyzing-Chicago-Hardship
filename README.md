@@ -1,1 +1,1 @@
-# SQL_Projects
+# Analyzing Chicago Hardship
