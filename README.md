@@ -29,10 +29,7 @@ The objective of this project is to analyze the socioeconomic indicators for dif
 
 ## Project Setup
 
-### Requirements
-
-To run this project, ensure you have the following installed:
-
+I installed the below applications, python, and pip installed libraries.
 - [Jupyter Lab](https://jupyter.org/)
 - [Python 3.x](https://www.python.org/)
 - Libraries: pandas, matplotlib, seaborn
@@ -41,28 +38,17 @@ To run this project, ensure you have the following installed:
 
 The dataset used in this analysis is obtained from the [Chicago City Portal](https://data.cityofchicago.org/resource/jcxq-k9xf.csv).
 
-### Running the Analysis
-
-Follow these steps to run the analysis:
-
-1. Clone or download this repository to your local machine.
-2. Open Jupyter Lab and navigate to the project directory.
-3. Open the Jupyter notebook file `Chicago_Communities_Hardship_Analysis.ipynb`.
-4. Execute the notebook cells to perform the analysis.
-
 ## Analysis Overview
 
 The analysis consists of the following steps:
 
-1. **Data Loading:** Connect to the SQLite database and load the dataset into the environment.
-2. **Basic Data Exploration:** Perform basic SQL queries to get an initial understanding of the dataset.
+1. **Data Loading:** Connecting to the SQLite database and loading the dataset into the environment.
+2. **Basic Data Exploration:** Performing SQL queries to get an initial understanding of the dataset.
 3. **Identifying High Hardship Communities:** Identify communities with a hardship index above 50.
-4. **Visualizations:** Explore the relationships between per capita income and hardship index, education level and hardship index, and unemployment rate and per capita income.
+4. **Visualizations:** Exploring the relationships between per capita income and hardship index, education level and hardship index, and unemployment rate and per capita income.
 
 ## Conclusion
 
 By analyzing the selected socioeconomic indicators for Chicago communities, this project aims to gain insights into the hardship levels faced by different areas. The visualizations and data exploration can provide valuable information for policymakers and researchers working towards improving the living conditions in these communities.
-
-Feel free to explore, contribute, or provide feedback to enhance this analysis. Happy analyzing!
 
 ![Chicago Skyline](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Chicago_sunrise_1.jpg/640px-Chicago_sunrise_1.jpg)
