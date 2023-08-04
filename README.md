@@ -52,3 +52,4 @@ The analysis consists of the following steps:
 By analyzing the selected socioeconomic indicators for Chicago communities, this project aims to gain insights into the hardship levels faced by different areas. The visualizations and data exploration can provide valuable information for policymakers and researchers working towards improving the living conditions in these communities.
 
 ![City of Chicago Visualization](bar_chart_hardship_index.jpg)
+![City of Chicago Visualization](databases_and_sql_cert.jpg)
